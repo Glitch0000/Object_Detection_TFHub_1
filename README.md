@@ -10,4 +10,3 @@ In the following sections, we will:  explore the Tensorflow Hub for object detec
 
 
 
-
